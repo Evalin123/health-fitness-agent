@@ -1,0 +1,22 @@
+[
+    {
+        "name": "健康資料記錄",
+        "message": "I weighed 72kg today, had a spinach salad for lunch, and did a 20-minute jog"
+    },
+    {
+        "name": "餐點規劃請求",
+        "message": "Can you suggest a healthy meal plan for dinner?"
+    },
+    {
+        "name": "運動規劃請求",
+        "message": "I need a workout plan for beginners"
+    },
+    {
+        "name": "習慣分析請求",
+        "message": "Please analyze my recent health habits"
+    },
+    {
+        "name": "一般健康聊天",
+        "message": "How much water should I drink daily?"
+    }
+]

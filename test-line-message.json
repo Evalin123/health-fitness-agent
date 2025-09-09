@@ -1,0 +1,19 @@
+{
+    "destination": "xxxxxxxxxx",
+    "events": [
+        {
+            "type": "message",
+            "timestamp": 1462629479859,
+            "source": {
+                "type": "user",
+                "userId": "U206d25c2ea6bd87c17655609a1c37cb8"
+            },
+            "message": {
+                "id": "444573844083572737",
+                "type": "text",
+                "text": "I weighed 72kg today, had a spinach salad for lunch, and did a 20-minute jog"
+            },
+            "replyToken": "0f3779fba3b349968c5d07db31eab56f"
+        }
+    ]
+}

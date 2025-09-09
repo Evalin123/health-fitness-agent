@@ -1,0 +1,19 @@
+{
+    "destination": "test",
+    "events": [
+        {
+            "type": "message",
+            "timestamp": 1462629479859,
+            "source": {
+                "type": "user",
+                "userId": "debug-user-001"
+            },
+            "message": {
+                "id": "debug-msg-001",
+                "type": "text",
+                "text": "Hello from debug test"
+            },
+            "replyToken": "debug-reply-token-001"
+        }
+    ]
+}
